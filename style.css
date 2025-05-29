@@ -1,0 +1,62 @@
+* {
+    background-color: rgb(79, 111, 180);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    box-sizing: border-box;
+}
+
+.title, .footnote, .home-link {
+        text-align: center;
+}
+
+.title {
+    text-shadow: 2px 2px black;
+    font-size: 40px;
+}
+
+.list-page-1  {
+    list-style: none;
+    font-size: 28px;
+}
+
+.image-1 {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.image-2 {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.image-3 {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.home-link {
+    font-size: 28px;
+}
+
+.underline {
+    text-decoration: none;
+}
+
+.list-card {
+    width: 300px;
+    border: 6px solid black;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+.instructions-card {
+    width: 700px;
+    height: auto;
+    margin: 0 auto;
+    border: 6px solid black;
+    border-radius: 16px;
+    padding: 10px;
+}
